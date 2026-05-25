@@ -1,0 +1,16 @@
+# =========================================================================
+# CONFIGURACION DE ESTUDIANTE DE PRUEBA PARA EL MODELO PREDICTIVO
+# =========================================================================
+# Llena la siguiente linea con 4 numeros (1 o 0) separados por comas.
+# Las caracteristicas deben ir ESTRICTAMENTE en este orden:
+# 1. SECTOR IES (1 si es Privado, 0 si es Oficial/Publico)
+# 2. SEXO (1 si es Femenino, 0 si es Masculino)
+# 3. MODALIDAD (1 si es para Matricula, 0 si es para Sostenimiento)
+# 4. UBICACION (1 si vive en Ciudad/Aglomeracion, 0 si vive en zona Rural/Intermedia)
+#
+# Ejemplo (Mujer en ciudad que pide para matricula en universidad privada):
+# 1, 1, 1, 1
+# =========================================================================
+
+# Privado, hombre, matricula, zona rural/intermedia
+1, 0, 1, 0
